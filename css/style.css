@@ -768,7 +768,8 @@ margin-top: 10px;
 
 }
 .header-area {
-    margin-bottom: -220px;
+    /* margin-bottom: -220px; */
+background:  linear-gradient( 0deg, rgb(118,188,2) 0%, rgb(244,166,1) 100%);
 }
 .header-three .main-menu ul li a {
     color: #fff;
